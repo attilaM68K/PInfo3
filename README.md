@@ -1,5 +1,5 @@
 # Welcome to ByteTheDust project repository
-https://travis-ci.com/attilaM68K/PInfo3.svg?branch=master
+[![Build Status](https://travis-ci.com/attilaM68K/PInfo3.svg?branch=master)](https://travis-ci.com/attilaM68K/PInfo3)
 
 We are a 6 members team :
 
