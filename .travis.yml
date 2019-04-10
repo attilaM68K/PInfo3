@@ -9,5 +9,6 @@ matrix:
     - language: node_js
       before_script:
         - cd frontend
+        - npm install dependencies
       script:
         - npm run build
